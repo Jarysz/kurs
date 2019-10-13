@@ -1,0 +1,21 @@
+* {
+  background-color: rgb(80, 240, 34);
+
+}
+ol {
+  list-style-type: upper-alpha;
+}
+ol.decimal {
+  list-style-type: decimal;
+  color: red
+}
+
+ol.data {
+  list-style-type: decimal;
+}
+ul.sguare {
+  list-style-type: circle;
+}
+ul.circle {
+  list-style-type: square;
+}
